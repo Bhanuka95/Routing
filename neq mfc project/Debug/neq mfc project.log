@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  neq mfc projectDlg.cpp
+  neq mfc project.cpp
+  Generating Code...
+  neq mfc project.vcxproj -> D:\Education\Sem 5\Done\Project\Final report\dvd\neq mfc project\Debug\neq mfc project.exe
+  neq mfc project.vcxproj -> D:\Education\Sem 5\Done\Project\Final report\dvd\neq mfc project\Debug\neq mfc project.pdb (Partial PDB)
